@@ -1,0 +1,16 @@
+resized_dataset/*
+resized_method_2/*
+CNN ACV.ipynb
+CNN_2_ACV.ipynb
+data-exploration-LST.ipynb
+data-exploration.ipynb
+EfficientNet_v1.ipynb
+poc.ipynb
+Red Neuronal ACV.ipynb
+train.zip
+*.tif
+*.jpg
+.ipynb_*
+train/*
+packages/
+.DS_Store
